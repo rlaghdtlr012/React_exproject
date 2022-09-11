@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# 코딩애플 React 강의를 듣고 예제 프로젝트를 수행하는 작업공간
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
